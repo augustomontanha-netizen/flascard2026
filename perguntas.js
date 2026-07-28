@@ -12,8 +12,8 @@ criaCartao(
 
 criaCartao(
     'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'O que é HTML?',
+    'HTML é a linguagem de marcação padrão usada para criar e estruturar páginas na web'
 )
 
 criaCartao(
