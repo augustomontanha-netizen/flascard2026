@@ -1,8 +1,7 @@
 criaCartao(
     'Programação',
     'O que é Python?',
-    'O Python é uma linguagem de programação'
-)
+    'Python é uma linguagem de programação de alto nível, interpretada e de propósito geral, famosa por sua sintaxe simples e focada na legibilidade do código
 
 criaCartao(
     'Geografia',
@@ -13,12 +12,12 @@ criaCartao(
 criaCartao(
     'Programação',
     'O que é HTML?',
-    'HTML é a linguagem de marcação padrão usada para criar e estruturar páginas na web'
+    'linguagem de programação de alto nível, interpretada e de propósito geral, amplamente conhecida por sua sintaxe simples, limpa e focada na legibilidade do código.
 )
 
 criaCartao(
     'Lingua inglesa',
     'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'A forma mais comum e universal de dizer "oi" em inglês é "Hi" ou "Hello".'
 )
 
